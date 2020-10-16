@@ -1,0 +1,238 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  display: none;
+}
+
+#song {
+  color: #383B4E;
+  border: solid 0.5px #383B4E;
+}
+::placeholder {
+  color: #383B4E;
+}
+::spelling-error {
+color: none;
+}
+
+#volumecontainer100 {
+  bottom: 40%;
+  position: absolute;
+  right: 45%;
+  width: 5%;
+  height: 40%;
+  border: solid 0.5px #383B4E;
+}
+
+#volumecontainer80 {
+  bottom: 40%;
+  position: absolute;
+  right: 57%;
+  width: 5%;
+  height: 32.5%;
+  border: solid 0.5px #383B4E;
+}
+
+#volumecontainer60 {
+  bottom: 40%;
+  position: absolute;
+  right: 68%;
+  width: 5%;
+  height: 25%;
+  border: solid 0.5px #383B4E;
+}
+
+#volumecontainer40 {
+  bottom: 40%;
+  position: absolute;
+  right: 79%;
+  width: 5%;
+  height: 17.5%;
+  border: solid 0.5px #383B4E;
+}
+
+#volumecontainer20 {
+  bottom: 40%;
+  position: absolute;
+  left: 5%;
+  width: 5%;
+  height: 10%;
+  border: solid 0.5px #383B4E;
+}
+
+#player {
+  position: absolute;
+  left: 5%;
+  top: 12.5%;
+}
+
+#next {
+  color: #383B4E;
+  background-color: #0C0D16;
+  position: absolute;
+  top: 30%;
+  border-radius: 50%;
+  right: 15%;
+}
+
+h3 {
+  position: relative;
+}
+
+#load:hover {
+  background-color: #383B4E;
+  opacity: 1.0;
+  color: #0C0D16;
+  transition: 0.3s;
+}
+
+#leftcontainer  {
+  position: absolute;
+  left: 50%;
+  top: 0%;
+}
+
+#add {
+  color: #0C0D16;
+  height: 3vw;
+  width: 3vw;
+  background-color: #383B4E;
+  border-radius: 50%;
+  position: absolute;
+  top: 47.5%;
+  right: 27.5%;
+}
+
+#substract {
+  color: #0C0D16;
+  height: 3vw;
+  width: 3vw;
+  background-color: #383B4E;
+  border-radius: 50%;
+  position: absolute;
+  top: 57.5%;
+  right: 17.5%;
+}
+
+#volshow {
+  left: 70%;
+  top: 10%;
+  font-family: 'IBM Plex Serif', serif;
+
+}
+
+#mute {
+  color: #0C0D16;
+  height: 3vw;
+  width: 3vw;
+  background-color: #383B4E;
+  border-radius: 50%;
+  position: absolute;
+  top: 47.5%;
+  right:7.5%; 
+}
+
+#add:hover {
+  background-color: #4caf50;
+  transition: 0.3s;
+}
+
+#substract:hover {
+  background-color: #c45022;
+  transition: 0.3s;
+}
+
+#mute:hover {
+  background-color: #af4c4c;
+  transition: 0.3s;
+}
+
+#load {
+  width: 50%;
+  border: 0.5px solid #383B4E;
+  color: #383B4E;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  left: 5%;
+}
+
+button {
+  border: none;
+  outline: none;
+  color: rgb(39, 39, 39);
+  position: absolute;
+  background: #0C0D16;
+  top: 75%;
+  font-family: 'IBM Plex Serif', serif;
+}
+
+textarea {
+  font-family: 'IBM Plex Serif', serif;
+  width: 50%;
+  left: 5%;
+  top: 65%;
+  resize: none;
+  color: rgb(0, 0, 0);
+  outline: none;
+  border: 0.5px solid rgb(0, 0, 0);
+  position: absolute;
+  background: #0C0D16;
+  overflow: hidden;
+}
+
+
+#wrapper {
+  position: absolute;
+  left: 50%;
+  width: 35%;
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+  height: 30%;
+  top: 42.5%;
+  background: #0C0D16;
+}
+.slidecontainer {
+  width: 100%;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 25%;
+  height: 15px;
+  left: 0%;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4caf50;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4caf50;
+  cursor: pointer;
+}
+

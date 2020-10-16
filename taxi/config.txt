@@ -1,0 +1,12 @@
+["taxi"] = {
+        app = "taxi",
+        color = "#25d366",
+        icon = "fas fa-taxi",
+        tooltipText = "Taksi",
+        tooltipPos = "right",
+        style = "font-size: 2.8vh";
+        job = false,
+        blockedjobs = {},
+        slot = 15,
+        Alerts = 0,
+    },

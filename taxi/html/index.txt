@@ -1,0 +1,33 @@
+add line: 25
+    <link rel="stylesheet" href="./css/taxi.css">
+
+
+add line 500
+  <div class="taxi-app">
+                        <div class="taxi-header">
+                            <p>Downtown Cob</p>
+                            <span>Söförler</span>
+                        </div>
+
+                        <div class="driver-list">
+                            <!-- <div class="driver-list">
+                                <div class="driver-list-firstletter">J</div>
+                                <div class="driver-list-fullname">Jay Nandes</div>
+                                <div class="driver-list-call"><i class="fas fa-phone"></i></div>
+                            </div>
+                            <div class="driver-list">
+                                <div class="driver-list-firstletter">J</div>
+                                <div class="driver-list-fullname">Jay Nandes</div>
+                                <div class="driver-list-call"><i class="fas fa-phone"></i></div>
+                            </div>
+                            <div class="driver-list">
+                                <div class="driver-list-firstletter">J</div>
+                                <div class="driver-list-fullname">Jay Nandes</div>
+                                <div class="driver-list-call"><i class="fas fa-phone"></i></div>
+                            </div> -->
+                        </div>
+                    </div>
+
+
+add line 1200
+        <script src="./js/taxi.js"></script>

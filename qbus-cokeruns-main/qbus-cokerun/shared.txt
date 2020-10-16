@@ -1,0 +1,1 @@
+	["jerrycan"] 			    	 = {["name"] = "jerrycan", 			        	["label"] = "Jerrycan", 		    	["weight"] = 100, 		["type"] = "item", 		["image"] = "jerry_can.png", 		    ["unique"] = false, 	["useable"] = false, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Can of Gas"},

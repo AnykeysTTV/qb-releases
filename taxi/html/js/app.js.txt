@@ -1,0 +1,5 @@
+add line 212 
+               } else if (PressedApplication == "taxi") {
+                    $.post('http://crp-phone_new/GetCurrentDrivers', JSON.stringify({}), function(data){
+                        SetupDrivers(data);
+                    });

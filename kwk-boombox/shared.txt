@@ -1,0 +1,1 @@
+	["hifi"] 					 = {["name"] = "hifi", 			 	  	  	["label"] = "Boombox", 		["weight"] = 2, 		["type"] = "item", 		["image"] = "hifi.png", 				["unique"] = false, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Ghettoblaster"},
