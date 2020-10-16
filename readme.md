@@ -22,5 +22,6 @@
 - dinjer - taxi_app
 - Livvux - qb-pushvehicles
 - Tsakalos - qb-customs
+- nooooooo/leoyassir - qb-spec 
 
 Contact : MaceVicous#0663
