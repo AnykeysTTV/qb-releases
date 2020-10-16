@@ -1,28 +1,26 @@
-<strong>Havent been tested</strong>
 
-Credits goes to all those people :
+# Credits goes to all those people :
 
-Mojito - qb-gangs <br>
-hbmsupra -5q-dumsters<br>
-hbmsupra -5q-copweapon<br>
-hbmsupra -5q-trains<br>
-hbmsupra -5q-nightclub<br>
-captain_rum - lottoscript<br>
+- Mojito - qb-gangs
+- hbmsupra -5q-dumsters
+- hbmsupra -5q-copweapon
+- hbmsupra -5q-trains
+- hbmsupra -5q-nightclub
+- captain_rum - lottoscript
+- Ryder - qbus-mdt-np
+- Ryder - qb-taco
+- SBRULEZ - kwk-boombox
+- Thibodeaux - qbus-cokeruns
+- Mojito - MDT external + translated
+- Ryder - drp_clothes
+- Ryder - outfits
+- Mojio & toddyy- oxy-runs-qbus
+- SBRULEZ - og-starbucksjob
+- luffy - qb-tattooshop_1
+- FRagOP - op-guns_1
+- MBL - qb-bandanas
+- dinjer - taxi_app
+- Livvux - qb-pushvehicles
+- Tsakalos - qb-customs
 
-Ryder - qbus-mdt-np<br>
-Ryder - qb-taco<br>
-SBRULEZ - kwk-boombox<br>
-Thibodeaux - qbus-cokeruns<br>
-Mojito - MDT external + translated<br>
-Ryder - drp_clothes<br>
-Ryder - outfits<br>
-Mojio & toddyy- oxy-runs-qbus<br>
-SBRULEZ - og-starbucksjob<br>
-luffy - qb-tattooshop_1<br>
-FRagOP - op-guns_1<br>
-MBL - qb-bandanas<br><br>
-dinjer - taxi_app<br>
-Livvux - qb-pushvehicles<br>
-Tsakalos - qb-customs<br>
-<br>
 Contact : MaceVicous#0663
