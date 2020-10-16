@@ -1,0 +1,6 @@
+add to end off file 
+RegisterNUICallback("GetCurrentDrivers", function(data, cb)
+    QBCore.Functions.TriggerCallback('ft-phone_new:server:GetCurrentDrivers', function(drivers)
+        cb(drivers)
+    end)
+end)
