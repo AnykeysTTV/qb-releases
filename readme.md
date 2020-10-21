@@ -23,5 +23,6 @@
 - Livvux - qb-pushvehicles
 - Tsakalos - qb-customs
 - nooooooo/leoyassir - qb-spec 
+- Toddyym/Mojito - urp-mining
 
 Contact : MaceVicous#0663
